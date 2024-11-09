@@ -10,8 +10,9 @@
 The challenge provides a `.jpg` file of a cat
 
 Attachment: WOW.jpg
-
-![WOW](https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/WOWERRZZZZ/WOW.jpg)
+<p align= "center">
+ <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/WOWERRZZZZ/WOW.jpg" alt="WOW Image">
+</p> 
 
 ## Solution
 ### Step 1: Initial Observations
