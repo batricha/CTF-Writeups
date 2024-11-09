@@ -2,7 +2,9 @@
 
 ## Challenge
 
-![Challenge](https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png) 
+<p align= "center">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png" alt="Challenge Image">
+</p>
 
 
 The challenge provides a `.jpg` file of a cat
