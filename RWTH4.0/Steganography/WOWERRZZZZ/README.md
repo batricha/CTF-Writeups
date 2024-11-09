@@ -2,14 +2,14 @@
 
 ## Challenge
 
-[Challenge](CTF-Writeups/RWTH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png) 
+![Challenge](CTF-Writeups/RWTH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png) 
 
 
 The challenge provides a `.jpg` file of a cat
 
 Attachment: WOW.jpg
 
-[Challenge](CTF-Writeups/RWTH4.0/Steganography/WOWERRZZZZ/WOW.jpg)
+![WOW](CTF-Writeups/RWTH4.0/Steganography/WOWERRZZZZ/WOW.jpg)
 
 ## Solution
 ### Step 1: Initial Observations
