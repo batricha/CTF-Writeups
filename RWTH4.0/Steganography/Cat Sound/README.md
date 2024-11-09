@@ -3,11 +3,11 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/Steganography/Cat%20Sound/catsounds1.png" alt="Challenge Image">
 </p>
 
 
-The challenge provides a `.wav` audio file and a hint in base64. 
+The challenge provides a `.wav` audio file and a hint in base64. <br> 
 Full Hint: aHR0cHM6Ly9naXRodWIuY29tL0pwaW5zb2Z0L0RlZXBTb3VuZAo=
 
 ## Solution
