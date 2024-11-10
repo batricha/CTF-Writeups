@@ -29,7 +29,7 @@ The challenge hints at a popular tourist attraction featuring a cat statue.
 - I decoded the base64 string, which revealed a GitHub link.
 
 ### Step 4: Exploring the GitHub Repository
-- Following the link to GitHub, I visited the profile and checked the repositories. Inside one of the repositories, I found a file labeled **flag.txt**.
+- Following the link to GitHub, I visited the profile and checked the repositories. Inside one of the repositories, I found a file labeled **flag**.
 - Opening the file revealed the hidden flag.
 
 ## Flag
