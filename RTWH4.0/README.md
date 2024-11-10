@@ -1,4 +1,4 @@
-# RWTH4.0 Writeups
+# RTWH4.0 Writeups
 
 Hi. <br>
 Somehow I got first place, so this is my writeups. <br>
