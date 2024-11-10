@@ -21,6 +21,10 @@ The challenge hints at a popular tourist attraction featuring a cat statue.
 ### Step 2: Checking Recent Reviews
 - I then checked the latest reviews for the Cat Statue's location. In one of the reviews, I found a hint mentioning **GitHub** and a base64-encoded string.
 
+<p align= "center">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RWTH4.0/OSINT/mEoW/meow3.png" alt="Hint Image">
+</p>
+
 ### Step 3: Decoding the Base64 String
 - I decoded the base64 string, which revealed a GitHub link.
 
