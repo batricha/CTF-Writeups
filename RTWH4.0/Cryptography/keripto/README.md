@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RTWH4.0/Steganography/WOWERRZZZZ/wowerrzzzz1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RTWH4.0/Cryptography/keripto/keripto1.png" alt="Challenge Image">
 </p>
 
 The challenge provided an encryption script, `enc.py`, which when executed outputs an IV and a ciphertext. Our goal was to decrypt the ciphertext and retrieve the flag.
