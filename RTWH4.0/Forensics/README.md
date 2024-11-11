@@ -8,8 +8,6 @@
 
 The log file contains web access logs capturing what appears to be an attempt at directory fuzzing.
 
-The log file contains web access logs capturing what appears to be an attempt at directory fuzzing.
-
 ## Solution
 ### Step 1: Initial Analysis of `access.log`
 - The log contained numerous entries pointing to various directories, I scanned through to identify any patterns or significant information.
