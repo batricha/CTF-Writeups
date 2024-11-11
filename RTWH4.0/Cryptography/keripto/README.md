@@ -45,10 +45,10 @@ cipher = AES.new(key, AES.MODE_CBC, iv)
 decrypted = unpad(cipher.decrypt(ciphertext), AES.block_size)
 
 # Print the decrypted message
-print("Decrypted message:", decrypted.decode())
+print("Decrypted message:", decrypted.decode()) ```
 
 ### Step 4: Running `decrypt.py`
-- After running decrypt.py, the decrypted message revealed the flag.''''
+- After running decrypt.py, the decrypted message revealed the flag.
 
 ## Flag
 `UCC{they have crypto chal for beginner?!?!}`  
