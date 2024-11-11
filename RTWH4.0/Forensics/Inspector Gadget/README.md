@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RTWH4.0/Forensics/inspector1.jpeg" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/RTWH4.0/Forensics/Inspector%20Gadget/inspector1.jpeg" alt="Challenge Image">
 </p>
 
 The log file contains web access logs capturing what appears to be an attempt at directory fuzzing.
