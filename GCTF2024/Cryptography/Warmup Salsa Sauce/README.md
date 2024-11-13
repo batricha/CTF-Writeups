@@ -28,7 +28,7 @@ Since we have access to both the plaintext (from wss.py) and the ciphertext (fro
 ### Step 2: Create a Script to Derive the Key and Decrypt the Flag
 - Using the XOR logic, I created the following script, enc.py, to derive the key and decrypt the message.
 
-python
+'''python
 
 from binascii import unhexlify
 
