@@ -59,4 +59,4 @@ print(flag.decode())
 
 
 ## Flag
-gctf{y0u_f0und_th3_c0cain3_a7f9f6bdeabd34dde0fa3037284864eb}  
+'gctf{y0u_f0und_th3_c0cain3_a7f9f6bdeabd34dde0fa3037284864eb}' 
