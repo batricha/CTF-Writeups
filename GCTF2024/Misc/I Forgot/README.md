@@ -21,7 +21,7 @@ The prompt provided an `.mp3` file Our goal was to identify the **courthouse** w
 - Through my research, I noticed that various articles mentioned different names or descriptions for the courthouse involved. After some trial and error and examining multiple sources, I found an article that referenced the specific name of the courthouse where the case was held.
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot1.png" alt="Flag Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot2.png" alt="Flag Image">
 </p>
 
 ### Step 4: Submitting the Flag
