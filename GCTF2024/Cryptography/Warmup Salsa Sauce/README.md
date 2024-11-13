@@ -11,7 +11,7 @@ The challenge provided two files: `wss.py` and `out.txt`. The objective was to d
 
 ## Analysis
 
-By examining the source code in `wss.py`, I determined that the encryption algorithm used is **Salsa20**, which is a stream cipher known for its simplicity and speed. This was also hinted at by the challenge title, "Warmup Salsa Sauce." 
+By examining the source code in `wss.py`, I determined that the encryption algorithm used is **Salsa20**. This was also hinted at by the challenge title, "Warmup Salsa Sauce." 
 
 In Salsa20, encryption and decryption involve an XOR operation:
 - **Ciphertext** = Plaintext XOR Key
@@ -52,7 +52,8 @@ flag = bytes(a ^ b for a, b in zip(cipher_flag_without_nonce, keystream))
 
 # Printing out the decrypted flag
 print(flag.decode())
-'''
+
+```
 
 ### Step 3: Run the Script
 - Running the script with the derived key will output the decrypted flag.
