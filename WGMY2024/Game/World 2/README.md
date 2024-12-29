@@ -32,7 +32,7 @@ The key difference was that this game was on a different platform, which added a
 
 **Obstacle 2: Defeating the Final Boss**
 - The final boss was unbeatable through regular gameplay—its attack dealt an absurd amount of HP damage. To overcome this, I modified the save file.
-- I extracted the rmmsave file from the game folder and uploaded it to SaveEditOnline. This tool allowed me to edit the file’s attributes.
+- I extracted the rmmsave file from the game folder and uploaded it to [click here](https://www.saveeditonline.com/). This tool allowed me to edit the file’s attributes.
 - I increased all critical stats (HP, attack, etc.) to atleast `1000000`, downloaded the modified file, and replaced the original in the game folder. After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
 
 <p align= "center">
