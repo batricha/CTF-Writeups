@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Cryptography/Warmup%20Salsa%20Sauce/warmup1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/The%20DCM%20Meta/dcm1.png" alt="Challenge Image">
 </p>
 
 
@@ -21,7 +21,7 @@ The challenge provided a `challenge.dcm` (and I realised that the hint they gave
 - From that, I could tell that the flag strings were edited into the file, but they were out of order.
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Cryptography/Warmup%20Salsa%20Sauce/warmup1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/The%20DCM%20Meta/dcm2.png" alt="Challenge Image">
 </p>
 
 ### Step 3: Sorting the Strings
