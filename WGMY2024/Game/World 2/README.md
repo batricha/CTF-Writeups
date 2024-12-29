@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src="https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world1.png" alt="Challenge Image" width="500" height="510">
+  <img src="https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world1.png" alt="Challenge Image" width="490" height="510">
 </p>
 
 
