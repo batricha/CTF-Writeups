@@ -18,7 +18,7 @@ The challenge provided a `challenge.dcm` (and I realised that the hint they gave
 
 ### Step 2: Analyzing Hex Dumps
 - The hex dump revealed the presence of the string WGMY (the flag format) followed by a sequence of numbers.
-- From that, I could tell that the flag strings were edited into the file, but they were out of order.
+- After hearing that my friend tried to sort it out it gave me idea that these are the flag strings but they were out of order.
 
 <p align= "center">
   <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/The%20DCM%20Meta/dcm2.png" alt="Challenge Image">
