@@ -25,7 +25,7 @@ The challenge provided a `challenge.dcm` (and I realised that the hint they gave
 </p>
 
 ### Step 3: Sorting the Strings
-- Using the array provided in the description, I wrote a Python script to rearrange the strings based on the given sequence.
+- Using the array provided in the description, I wrote a really Python script to rearrange the strings based on the given sequence.
 
 ```python
 
