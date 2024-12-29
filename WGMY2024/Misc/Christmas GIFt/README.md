@@ -13,7 +13,7 @@ The prompt provided a `.gif` file of a present box being opened, but nothing cam
   <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift3.png" alt="Challenge Image" width="490" height="420">
 </p>
 
-## Solution
+## Analysis & Solution
 
 ### Step 1: Analyzing the File
 - I began by examining the file format using various tools like `file`, `exiftool`, and `binwalk` to check for hidden data or embedded files.
