@@ -30,7 +30,7 @@ The key difference was that this game was on a different platform, which added a
 - After some exploration and recalling my friend’s experience in "World 1," I discovered that Flag 4 was hidden in the lava section of the game. It was written directly on the lava, requiring careful navigation to piece it together. Credit to my friend for noticing this in "World 1." 
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world2.png" alt="Challenge Image" width="490" height="490">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world2.png" alt="Challenge Image" width="490" height="450">
 </p>
 
 **Obstacle 2: Defeating the Final Boss**
@@ -44,7 +44,7 @@ The key difference was that this game was on a different platform, which added a
 
 - After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image" width="490" height="450">
 </p>
 
 ### Step 5: Capturing the Flag
