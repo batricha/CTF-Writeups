@@ -30,7 +30,7 @@ The key difference was that this game was on a different platform, which added a
 - After some exploration and recalling my friend’s experience in "World 1," I discovered that Flag 4 was hidden in the lava section of the game. It was written directly on the lava, requiring careful navigation to piece it together. Credit to my friend for noticing this in "World 1." 
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world2.png" alt="Challenge Image" width="490" height="510">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world2.png" alt="Challenge Image" width="490" height="490">
 </p>
 
 **Obstacle 2: Defeating the Final Boss**
@@ -38,7 +38,7 @@ The key difference was that this game was on a different platform, which added a
 - I extracted the rmmsave file from the game folder and uploaded it to SaveEditOnline. This tool allowed me to edit the file’s attributes.
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world3.png" alt="Challenge Image" width="490" height="510">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world3.png" alt="Challenge Image" width="550" height="460">
 </p>
 
 - I increased all critical stats (HP, attack, etc.) to atleast `1000000`, downloaded the modified file, and replaced the original in the game folder. After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
