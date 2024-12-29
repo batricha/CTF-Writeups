@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift2.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift4.png" alt="Challenge Image">
 </p>
 
 
