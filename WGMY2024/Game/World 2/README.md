@@ -16,15 +16,11 @@ This was my first time tackling a game hacking challenge, but I had seen my frie
 
 The key difference was that this game was on a different platform, which added a new layer of difficulty.
 
-### Step 2: Setting Up the Game
-- Upon receiving the `APK` file, I initially attempted to run it using **Bluestacks**, but due to technical issues, I had to abandon that plan.
-- Instead, I used my Samsung tablet to install and play the game. To facilitate file manipulation, I connected the tablet to my laptop via USB, making it easier to extract and update files as needed.
-
-### Step 3: Playing the Game
+### Step 2: Playing the Game
 - I played the game for one round, saving the game after each session (a "round" involved fighting an opponent).
 - Each save generated an `rmmsave` file in the game’s directory, which became crucial later.
 
-### Step 4: Overcoming Obstacles
+### Step 3: Overcoming Obstacles
 **Obstacle 1: Missing Part of the Flag**
 - The game provided four parts of the flag: Flag 1, Flag 2, Flag 3, and Flag 5. However, Flag 4 was missing.
 - After some exploration and recalling my friend’s experience in "World 1," I discovered that Flag 4 was hidden in the lava section of the game. It was written directly on the lava, requiring careful navigation to piece it together. Credit to my friend for noticing this in "World 1." 
@@ -47,7 +43,7 @@ The key difference was that this game was on a different platform, which added a
   <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image" width="490" height="450">
 </p>
 
-### Step 5: Capturing the Flag
+### Step 4: Capturing the Flag
 - Defeating the final boss rewarded me with Flag 5. Combining all five flag parts gave the full flag.
 - While the process was straightforward in hindsight, navigating the lava section to read Flag 4 was particularly challenging.
 
