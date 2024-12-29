@@ -1,0 +1,32 @@
+# Christmas GIFt
+
+## Challenge
+
+<p align= "center">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot1.png" alt="Challenge Image">
+</p>
+
+
+The prompt provided a `.gif` file of a present box being opened, but nothing came out of it.
+
+<p align= "center">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot1.png" alt="Challenge Image">
+</p>
+
+## Solution
+
+### Step 1: Analyzing the File
+- I began by examining the file format using various tools like `file`, `exiftool`, and `binwalk` to check for hidden data or embedded files.
+- None of these tools revealed anything unusual about the `.gif` file.
+
+### Step 2: Visual Inspection in GIMP
+- I opened the `.gif` file in GIMP to examine the individual frames.
+- Upon scrolling through the frames, I discovered one frame that contained the flag.
+
+<p align= "center">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot2.png" alt="Flag Image">
+</p>
+
+### Step 3: Submitting the Flag
+- I noted down the text from the frame and submitted it as the flag.
+
