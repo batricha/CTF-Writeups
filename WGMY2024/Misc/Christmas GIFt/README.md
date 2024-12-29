@@ -3,14 +3,14 @@
 ## Challenge
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift1.png" alt="Challenge Image">
 </p>
 
 
 The prompt provided a `.gif` file of a present box being opened, but nothing came out of it.
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot1.png" alt="Challenge Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift3.png" alt="Challenge Image">
 </p>
 
 ## Solution
@@ -24,7 +24,7 @@ The prompt provided a `.gif` file of a present box being opened, but nothing cam
 - Upon scrolling through the frames, I discovered one frame that contained the flag.
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/GCTF2024/Misc/I%20Forgot/forgot2.png" alt="Flag Image">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Misc/Christmas%20GIFt/gift2.png" alt="Flag Image">
 </p>
 
 ### Step 3: Submitting the Flag
