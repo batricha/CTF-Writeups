@@ -1,3 +1,3 @@
-# Girls in CTF 2024 Writeups
+# Girls in CTF 2024 Writeup
 
 Team AB+
