@@ -3,7 +3,7 @@
 ## Challenge
 
 <p align= "center">
-  <img src="https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world1.png" alt="Challenge Image" width="490" height="510">
+  <img src="https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world1.png" alt="Challenge Image">
 </p>
 
 
@@ -39,12 +39,12 @@ The key difference was that this game was on a different platform, which added a
 - I increased all critical stats (HP, attack, etc.) to atleast `1000000`, downloaded the modified file, and replaced the original in the game folder. After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world4.png" alt="Challenge Image" width="550" height="460">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world4.png" alt="Challenge Image">
 </p>
 
 - After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image" width="490" height="510">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image" width="510" height="510">
 </p>
 
 ### Step 5: Capturing the Flag
