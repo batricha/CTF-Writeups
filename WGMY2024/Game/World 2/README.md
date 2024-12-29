@@ -44,7 +44,7 @@ The key difference was that this game was on a different platform, which added a
 
 - After reloading the game, my character was now overpowered, capable of defeating the boss in one attack. 
 <p align= "center">
-  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image" width="510" height="510">
+  <img src = "https://github.com/batricha/CTF-Writeups/blob/main/WGMY2024/Game/World%202/world5.jpeg" alt="Challenge Image">
 </p>
 
 ### Step 5: Capturing the Flag
