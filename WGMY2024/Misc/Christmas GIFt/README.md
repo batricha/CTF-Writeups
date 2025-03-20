@@ -30,3 +30,4 @@ The prompt provided a `.gif` file of a present box being opened, but nothing cam
 ### Step 3: Submitting the Flag
 - I noted down the text from the frame and submitted it as the flag.
 
+### 🔙 [Back to WGMY2024 Challenge Menu](https://github.com/batricha/CTF-Writeups/tree/main/WGMY2024)
