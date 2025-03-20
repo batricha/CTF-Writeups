@@ -2,7 +2,7 @@
 
 Team AB+ (19th place)
 Here are the challenges that I've managed to capture the flags:
-- [Cryptography:Warmup Salsa Sauce](https://github.com/batricha/CTF-Writeups/tree/main/GCTF2024/Cryptography/Warmup%20Salsa%20Sauce)
+- [Cryptography: Warmup Salsa Sauce](https://github.com/batricha/CTF-Writeups/tree/main/GCTF2024/Cryptography/Warmup%20Salsa%20Sauce)
 - [Misc: I Forgot](https://github.com/batricha/CTF-Writeups/tree/main/GCTF2024/Misc/I%20Forgot)
 
 ## Full Team Write-up  
