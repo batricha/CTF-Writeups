@@ -42,4 +42,4 @@ print(reordered_rank)
 - Running the script produced the reordered string.
 - The final flag was then wrapped in the required format: `wgmy{reordered_string}`.
 
-
+### 🔙 [Back to WGMY2024 Challenge Menu](https://github.com/batricha/CTF-Writeups/tree/main/WGMY2024)
