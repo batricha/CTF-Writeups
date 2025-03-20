@@ -48,6 +48,4 @@ The key difference was that this game was on a different platform, which added a
 - Defeating the final boss rewarded me with Flag 5. Combining all five flag parts gave the full flag.
 - While the process was straightforward in hindsight, navigating the lava section to read Flag 4 was particularly challenging.
 
-
-
-
+### 🔙 [Back to WGMY2024 Challenge Menu](https://github.com/batricha/CTF-Writeups/tree/main/WGMY2024)
